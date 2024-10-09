@@ -1,3 +1,5 @@
+![Screenshot (130)](https://github.com/user-attachments/assets/b62820f8-2c29-4f42-abf1-4f248f29ebed)
+![Screenshot (129)](https://github.com/user-attachments/assets/c8a4615b-7e0c-46ed-8813-131d3d6e2e04)
 # HCS Topic Challenge - Summary Metrics
 
 ## Task Completion Metrics
