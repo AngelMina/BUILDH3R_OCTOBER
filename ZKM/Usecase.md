@@ -1,3 +1,4 @@
 ### My proposed Use Case: Pediatric Health Monitoring and Data Management 
 Implement ZKM's Entangled and Hybrid Rollups to improve pediatric healthcare through real-time health monitoring and secure data sharing. Key features include standardized health metrics like growth and vaccination records, and integration with IoT devices for continuous monitoring. The system enables decentralized data sharing among parents, pediatricians, and schools while providing real-time alerts for abnormal health indicators or missed vaccinations. Smart contracts automate appointment scheduling and claims processing, allowing parents to control access to their child's data. This approach enhances monitoring, improves care coordination, and fosters parental engagement, ultimately leading to better health outcomes for children.
 ![Screenshot (140)](https://github.com/user-attachments/assets/72d80293-54c0-4209-aa15-099578fdd716)
+
